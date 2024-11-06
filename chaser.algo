@@ -1,0 +1,28 @@
+ALGORITHM algorithm_name
+VAR
+    cara; CHAR;
+    compteureCara : INTEGER := 0;
+BEGIN
+    
+       REPEAT
+
+          Write("Donnez un caractere")     
+          Read(cara)
+           
+           compteureCara := compteureCara 2;
+
+        UNTIL (cara=   . ) 
+END 
+
+f
+e
+m 
+t
+.
+
+a
+l
+y
+n
+e
+.
